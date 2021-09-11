@@ -2,8 +2,7 @@
 # Team SpaceRad
 # Researchers: Oskar, Błażej, Dawid
 # Team from Poland
-# Thanks to SpaceWombats team
-# https://github.com/jpalau-edu/AstroPi1920
+# Thanks to SpaceWombats team - https://github.com/jpalau-edu/AstroPi1920
 ############################################################################
 
 # PL - biblioteki
